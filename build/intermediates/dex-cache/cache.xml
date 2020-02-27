@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_77789b5e026ef4c6e04d1218d643efc41ff07423\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_a6ed978726682b93b7112394d22fbc4a8c1a33cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_75996ed66656eda83e06e4e3ac227991580aa1dd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_7cc1fea642541befbb10248e921cb9cd77d82078\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\17.0\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_7fa46e92eac30c19911902ebf6a0993a39e7773f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2.2_a890de0ef18483994eebd6a18be864df8ab203bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\Documents\documents\Buildings\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_c09168d6f7ebbaa3696d75e5f62490633e7242af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\com.github.davidmarquis\fluent-interface-proxy\1.3.0\519c459c771e2554437649a32b56e27a83ba66dc\fluent-interface-proxy-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="519c459c771e2554437649a32b56e27a83ba66dc">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\fluent-interface-proxy-1.3.0_4f3a73f1f4e0aa703e2670517882b2b7df5ece52\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_8bd17649534dfda8758f7e3d9120559a304b19f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.4\d52b9abcd97f38c81342bb7e7ae1eee9b73cba51\commons-beanutils-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d52b9abcd97f38c81342bb7e7ae1eee9b73cba51">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-beanutils-1.9.4_42c3f006d6ae2aa3d49fa26d78ee3259a10676dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_8e66c8a4d8deea951e1ef5e02fdf60a267f04ef4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_644f3590791919d77f578870cd050ce34716b151\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Pratik\Documents\documents\Buildings\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_5ed3d4b03f235b65cd75e8fdd4e6401a33cd3685\classes.dex" />
+    </item>
+
+</items>
